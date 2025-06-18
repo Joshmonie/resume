@@ -3,7 +3,6 @@
 *Email:* okuyeraj@gmail.com  
 *Location:* 1603-25 Martha Eaton Way, Toronto, ON  
 *Phone:* 437-269-3958  
-*Portfolio:* [Add your portfolio URL here]
 
 ---
 
@@ -83,8 +82,8 @@ Graduation: June 2018
 
 ## Certifications
 
-- Google UX Design Certificate (Coursera) (Highly Recommended to pursue)
-- Responsive Web Design Certification (freeCodeCamp)
+- Google UX Design Certificate
+- Responsive Web Design Certification
 
 ---
 
